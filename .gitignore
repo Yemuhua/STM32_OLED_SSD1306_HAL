@@ -1,0 +1,38 @@
+# ===== IDE =====
+.vs/
+.idea/
+.vscode/
+Debug/
+Release/
+MDK-ARM/
+EWARM/
+*.uvguix*
+*.uvoptx
+*.user
+*.opendb
+*.ioc
+*.mxproject
+# ===== 编译中间文件 =====
+*.o
+*.d
+*.hex
+*.bin
+*.elf
+*.map
+*.lst
+*.crf
+*.dep
+
+# ===== CubeMX 生成 =====
+Drivers/
+Core/
+*.ioc
+
+# ===== 系统文件 =====
+*.bak
+*.log
+Thumbs.db
+.DS_Store
+
+# ===== 你自己的代码（保留）=====
+!User/

@@ -1,6 +1,6 @@
 # STM32_OLED_SSD1306_HAL
 
-基于STM32 HAL库的SSD1306 OLED驱动，移植自u8g2并做精简。
+基于STM32 HAL库的SSD1306 OLED驱动，移植自u8g2并做精简。大一作品，代码可能有些纰漏，感谢各位指正。
 
 ## 用法
 1. 把 `User/` 文件夹复制到你的工程
@@ -18,12 +18,6 @@
 - Port/  u8g2适配层  
 - App/   应用接口层
 
-## 占用
-- ROM: 3.2KB
-- RAM: 1KB buffer
-
 ## 致谢
 - [u8g2](https://github.com/olikraus/u8g2)
 
-## 协议
-MIT
