@@ -1,25 +1,25 @@
-[IMG_20260213_195616](https://github.com/user-attachments/assets/211f7fe4-2504-4949-9d2d-83b378775079)
+[oled_test](https://github.com/Yemuhua/STM32_OLED_SSD1306_HAL/raw/master/oled_test.jpg)
 
 # STM32_OLED_SSD1306_HAL
 
-基于 STM32F103C8T6 开发测试的SSD1306 OLED驱动，移植自u8g2并做精简，理论上支持全系列stm32，不支持标准库。大一项目，代码可能有些纰漏，感谢各位指正。
+���� STM32F103C8T6 �������Ե�SSD1306 OLED��������ֲ��u8g2��������������֧��ȫϵ��stm32����֧�ֱ�׼�⡣��һ��Ŀ�����������Щ�©����л��λָ����
 
-## 用法
-1. 把 `User/` 文件夹复制到你的工程
-2. 添加头文件路径
+## �÷�
+1. �� `User/` �ļ��и��Ƶ���Ĺ���
+2. ����ͷ�ļ�·��
 3. `#include "oled_app.h"`
 4. `OLED_App_Init(&hi2c1, 0x78);`
 
-## 依赖
-- STM32 HAL库
-- I2C已初始化（PB6/PB7）
-- 时钟72MHz（HSE）
+## ����
+- STM32 HAL��
+- I2C�ѳ�ʼ����PB6/PB7��
+- ʱ��72MHz��HSE��
 
-## 文件结构
-- Bsp/   硬件操作层
-- Port/  u8g2适配层  
-- App/   应用接口层
+## �ļ��ṹ
+- Bsp/   Ӳ��������
+- Port/  u8g2�����  
+- App/   Ӧ�ýӿڲ�
 
-## 致谢
+## ��л
 - [u8g2](https://github.com/olikraus/u8g2)
 
