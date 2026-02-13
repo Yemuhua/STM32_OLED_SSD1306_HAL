@@ -1,4 +1,4 @@
-[oled_test](https://github.com/Yemuhua/STM32_OLED_SSD1306_HAL/blob/master/oled_test.jpg?raw=true)
+[oled_test](https://raw.githubusercontent.com/Yemuhua/STM32_OLED_SSD1306_HAL/blob/master/oled_test.jpg?raw=true)
 
 # STM32_OLED_SSD1306_HAL
 
