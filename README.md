@@ -1,4 +1,4 @@
-[oled_test](https://github.com/Yemuhua/STM32_OLED_SSD1306_HAL/raw/master/oled_test.jpg)
+[oled_test](https://github.com/Yemuhua/STM32_OLED_SSD1306_HAL/blob/master/oled_test.jpg?raw=true)
 
 # STM32_OLED_SSD1306_HAL
 
@@ -22,4 +22,3 @@
 
 ## ÖÂÐ»
 - [u8g2](https://github.com/olikraus/u8g2)
-
