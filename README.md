@@ -1,5 +1,3 @@
-[oled_test](https://raw.githubusercontent.com/Yemuhua/STM32_OLED_SSD1306_HAL/master/oled_test.jpg)
-
 # STM32_OLED_SSD1306_HAL
 
 基于 STM32F103C8T6 开发测试的SSD1306 OLED驱动，移植自u8g2并做精简，理论上支持全系列stm32，不支持标准库。大一项目，代码可能有些纰漏，感谢各位指正。
